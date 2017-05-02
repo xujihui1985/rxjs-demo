@@ -1,0 +1,28 @@
+{
+  "name": "rxjs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xujihui1985/rxjs-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xujihui1985/rxjs-demo/issues"
+  },
+  "homepage": "https://github.com/xujihui1985/rxjs-demo#readme",
+  "dependencies": {
+    "rxjs": "^5.3.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.1.0",
+    "typescript": "^2.3.2"
+  }
+}
